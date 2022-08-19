@@ -1,0 +1,107 @@
+*{
+   box-sizing: border-box;
+}
+body,html{
+   height: 100%;
+   margin: 0;
+   padding: 0;
+}
+h2{
+   /*font-size: 70px;*/
+   text-transform: uppercase;
+   font-family: 'Rubik Marker Hatch', cursive;
+   margin: 0;
+}
+.bi{
+   background-image: url("pic.webp");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+   height: 100%;
+  
+}
+.bt{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   z-index: 2;
+   width: 75%;
+   padding: 5px 0;
+   text-align: center;
+   border-top-left-radius: 70px;
+   border-bottom-right-radius: 70px;
+   background-color: rgba(0,0,0,0.3);
+   color: #fff;
+   font-weight: bold;
+   border: 7px inset #fff;
+}
+.bt p{
+   padding: 0 8%;
+   font-family: merienda;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
